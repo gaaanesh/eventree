@@ -705,13 +705,13 @@ h6,
 .img-logo-responsive {
     max-width: 180px;
     width: 100%;
-    height: fit-content;
+    /* height: fit-content; */
 }
 
 @media (max-width: 768px) {
     .img-logo-responsive {
         max-width: 150px;
         width: 100%;
-        height: fit-content;
+        /* height: fit-content; */
     }
 }
